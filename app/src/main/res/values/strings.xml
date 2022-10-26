@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SlozenyUrok</string>
+    <string name="history_data">history</string>
+    <string name="about_text">I am Ratmir Gaitov and my login is GAI0010</string>
+    <string name="vklad_hint">Vklad</string>
+    <string name="sazba_hint">Sazba</string>
+    <string name="doba_hint">Doba</string>
+    <string name="vypocet_hint">Vypocet</string>
+    <string name="intent_result_settings">isPie</string>
+</resources>
